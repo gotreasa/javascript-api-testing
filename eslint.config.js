@@ -2,7 +2,6 @@ import globals from 'globals';
 import js from '@eslint/js';
 import jestFormatting from 'eslint-plugin-jest-formatting';
 import jest from 'eslint-plugin-jest';
-import sonarjs from 'eslint-plugin-sonarjs';
 
 export default [
   js.configs.recommended,
@@ -22,7 +21,6 @@ export default [
     plugins: {
       jestFormatting: jestFormatting,
       jest: jest,
-      sonarjs: sonarjs,
     },
     rules: {
       camelcase: 0,

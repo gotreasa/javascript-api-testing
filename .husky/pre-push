@@ -1,4 +1,3 @@
 #!/bin/bash
 
-npm run pre-push
-env-cmd sonar-scanner
+npm test
