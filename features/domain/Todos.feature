@@ -1,4 +1,4 @@
-Feature: Placeholder endpoint
+Feature: Retrieve todos
 
   Scenario Outline: A todo has a title - ID: <id>
     Given A todo with ID <id>
