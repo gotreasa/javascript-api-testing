@@ -44,7 +44,7 @@ jobs:
       - name: Prettify the code
         run: npm run prettier:verify
 
-  test_and_coverage:
+  test:
     runs-on: ubuntu-latest
     needs: [eslint-verify, prettier-verify]
 
