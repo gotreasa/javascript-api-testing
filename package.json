@@ -52,7 +52,7 @@
     "pmpact": "^0.4.6",
     "prettier": "^3.5.3",
     "prettier-plugin-gherkin": "^3.1.2",
-    "sort-package-json": "^3.2.0",
+    "sort-package-json": "^3.2.1",
     "typesync": "^0.14.3"
   },
   "engines": {
