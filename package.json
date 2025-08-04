@@ -47,7 +47,7 @@
     "jest-config": "^30.0.4",
     "jest-cucumber-fusion": "^0.8.1",
     "jest-pact": "^0.11.4",
-    "lint-staged": "^16.1.2",
+    "lint-staged": "^16.1.4",
     "node-git-current-branch": "^2.0.1",
     "pmpact": "^0.4.6",
     "prettier": "^3.6.2",
