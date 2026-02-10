@@ -2,7 +2,6 @@ import { Given, When, Then, And, Fusion } from 'jest-cucumber-fusion';
 import axios, { HttpStatusCode } from 'axios';
 
 let title;
-let body;
 let userId;
 let response;
 
@@ -21,7 +20,6 @@ And(/^a user ID (\d+)$/, (inputId) => {
 When('the new post is created', async () => {
   const data = {
     title,
-    body,
     userId,
   };
   response = await instance.post(`/posts`, data);
