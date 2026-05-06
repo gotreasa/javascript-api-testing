@@ -24,7 +24,7 @@
     "test:watch": "npm test -- --watch"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.29.3",
+    "@babel/preset-env": "^7.29.5",
     "@commitlint/cli": "^20.5.3",
     "@commitlint/config-conventional": "^20.5.3",
     "@eslint/js": "^10.0.1",
