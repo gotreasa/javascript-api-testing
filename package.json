@@ -40,7 +40,7 @@
     "eslint": "^10.14.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-jest": "^29.17.0",
-    "eslint-plugin-jest-formatting": "^3.1.0",
+    "eslint-plugin-jest-formatting": "^4.0.0",
     "eslint-plugin-prettier": "^5.5.7",
     "globals": "^17.14.0",
     "husky": "^9.1.7",
